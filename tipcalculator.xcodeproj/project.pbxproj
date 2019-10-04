@@ -15,6 +15,7 @@
 		BCC2E7382346C4A600A8B006 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCC2E7362346C4A600A8B006 /* LaunchScreen.storyboard */; };
 		BCC2E7432346C4A600A8B006 /* tipcalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC2E7422346C4A600A8B006 /* tipcalculatorTests.swift */; };
 		BCC2E74E2346C4A600A8B006 /* tipcalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC2E74D2346C4A600A8B006 /* tipcalculatorUITests.swift */; };
+		BCC2E75C2346D7E000A8B006 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCC2E75B2346D7E000A8B006 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BCC2E7492346C4A600A8B006 /* tipcalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tipcalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BCC2E74D2346C4A600A8B006 /* tipcalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tipcalculatorUITests.swift; sourceTree = "<group>"; };
 		BCC2E74F2346C4A600A8B006 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BCC2E75B2346D7E000A8B006 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				BCC2E72D2346C4A500A8B006 /* SceneDelegate.swift */,
 				BCC2E72F2346C4A500A8B006 /* ViewController.swift */,
 				BCC2E7312346C4A500A8B006 /* Main.storyboard */,
+				BCC2E75B2346D7E000A8B006 /* SettingsViewController.swift */,
 				BCC2E7342346C4A600A8B006 /* Assets.xcassets */,
 				BCC2E7362346C4A600A8B006 /* LaunchScreen.storyboard */,
 				BCC2E7392346C4A600A8B006 /* Info.plist */,
@@ -262,6 +265,7 @@
 				BCC2E7302346C4A500A8B006 /* ViewController.swift in Sources */,
 				BCC2E72C2346C4A500A8B006 /* AppDelegate.swift in Sources */,
 				BCC2E72E2346C4A500A8B006 /* SceneDelegate.swift in Sources */,
+				BCC2E75C2346D7E000A8B006 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
